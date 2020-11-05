@@ -27,14 +27,14 @@ See CHANGELOG file for a better description.
 
 open terminal 
 
-apt-get install libpcap-dev
-apt-get install python2.7-dev libssl-dev zlib1g-dev libpcap-dev
-git cole https://github.com/anonymousproo/Pyrit
-after Installation complete  Pyrit
-cd pyrit
-python setup.py clean
-python setup.py build
-python setup.py install
+apt-get install libpcap-dev<br>
+apt-get install python2.7-dev libssl-dev zlib1g-dev libpcap-dev<br>
+git cole https://github.com/anonymousproo/Pyrit<br>
+after Installation complete  Pyrit<br>
+cd pyrit<br>
+python setup.py clean<br>
+python setup.py build<br>
+python setup.py install<br>
 
 # How to participate
 
