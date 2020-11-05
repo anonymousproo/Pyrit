@@ -29,7 +29,7 @@ open terminal
 
 apt-get install libpcap-dev<br>
 apt-get install python2.7-dev libssl-dev zlib1g-dev libpcap-dev<br>
-git cole https://github.com/anonymousproo/Pyrit<br>
+git clone https://github.com/anonymousproo/Pyrit<br>
 after Installation complete  Pyrit<br>
 cd pyrit<br>
 python setup.py clean<br>
