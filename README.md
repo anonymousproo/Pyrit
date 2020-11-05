@@ -38,4 +38,4 @@ python setup.py install<br>
 
 # How to participate
 
-[Watch here](youtube.com/anonymousproo)
+youtube.com/anonymousproo
